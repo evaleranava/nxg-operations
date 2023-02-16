@@ -1,0 +1,27 @@
+{
+  "o_lb_pip_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "/subscriptions/d7e98336-03f9-41f9-84ab-ad98854cb1ee/resourceGroups/lb-rg/providers/Microsoft.Network/publicIPAddresses/lb-pip"
+  },
+  "o_lb_rg_location": {
+    "sensitive": false,
+    "type": "string",
+    "value": "westus"
+  },
+  "o_lb_rg_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "lb-rg"
+  },
+  "o_lb_subnet_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "/subscriptions/d7e98336-03f9-41f9-84ab-ad98854cb1ee/resourceGroups/lb-rg/providers/Microsoft.Network/virtualNetworks/lb-vnet/subnets/lb-subnet"
+  },
+  "o_lb_vnet_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "/subscriptions/d7e98336-03f9-41f9-84ab-ad98854cb1ee/resourceGroups/lb-rg/providers/Microsoft.Network/virtualNetworks/lb-vnet"
+  }
+}

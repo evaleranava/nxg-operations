@@ -1,0 +1,65 @@
+{
+  "o_default_password": {
+    "sensitive": true,
+    "type": [
+      "object",
+      {
+        "bcrypt_hash": "string",
+        "id": "string",
+        "keepers": [
+          "map",
+          "string"
+        ],
+        "length": "number",
+        "lower": "bool",
+        "min_lower": "number",
+        "min_numeric": "number",
+        "min_special": "number",
+        "min_upper": "number",
+        "number": "bool",
+        "numeric": "bool",
+        "override_special": "string",
+        "result": "string",
+        "special": "bool",
+        "upper": "bool"
+      }
+    ],
+    "value": {
+      "bcrypt_hash": "$2a$10$.y/cFjvV9HvefJr/kxcn8ealnAhbaqaajB6rc6hc0opZERhHcOnEq",
+      "id": "none",
+      "keepers": null,
+      "length": 30,
+      "lower": true,
+      "min_lower": 0,
+      "min_numeric": 0,
+      "min_special": 0,
+      "min_upper": 0,
+      "number": true,
+      "numeric": true,
+      "override_special": "!#$%\u0026*()-_=+[]{}\u003c\u003e:?",
+      "result": "z4UIGG4*LOqx0#Ff]6oprXqE(mI\u003eaE",
+      "special": true,
+      "upper": true
+    }
+  },
+  "o_kms-env1-test-001": {
+    "sensitive": false,
+    "type": "string",
+    "value": "arn:aws:kms:us-east-1:009602676511:key/ca240543-867e-4e40-8533-7296a3c37281"
+  },
+  "o_pub-snet-env1-test-001_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "subnet-02b02fc987bc3c155"
+  },
+  "o_pub-snet-env1-test-002_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "subnet-0e84c2602637baafc"
+  },
+  "sg-env1-test-001": {
+    "sensitive": false,
+    "type": "string",
+    "value": "sg-068770f5cb7b615e4"
+  }
+}

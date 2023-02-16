@@ -1,0 +1,26 @@
+{
+  "o_sa_rg_location": {
+    "sensitive": false,
+    "type": [
+      "tuple",
+      [
+        "string"
+      ]
+    ],
+    "value": [
+      "westus"
+    ]
+  },
+  "o_sa_rg_name": {
+    "sensitive": false,
+    "type": [
+      "tuple",
+      [
+        "string"
+      ]
+    ],
+    "value": [
+      "storage-rg"
+    ]
+  }
+}
