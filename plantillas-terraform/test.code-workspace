@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "plantillas-terraform",
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "GreenTest"
+	}
+}

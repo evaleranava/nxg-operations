@@ -1,0 +1,12 @@
+{
+  "pub-snet-env1-test-001": {
+    "sensitive": false,
+    "type": "string",
+    "value": "subnet-0d97c4bf41cb9e573"
+  },
+  "sg-env1-test-002": {
+    "sensitive": false,
+    "type": "string",
+    "value": "sg-06ceae34953630115"
+  }
+}

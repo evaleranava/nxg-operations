@@ -1,0 +1,17 @@
+{
+  "kp-env1-test-001": {
+    "sensitive": false,
+    "type": "string",
+    "value": "kp-env1-test-001"
+  },
+  "nic-env1-test-001": {
+    "sensitive": false,
+    "type": "string",
+    "value": "eni-0f45f5d2d7d879dcd"
+  },
+  "sg-env1-test-001": {
+    "sensitive": false,
+    "type": "string",
+    "value": "sg-023d08e842e4b74f7"
+  }
+}

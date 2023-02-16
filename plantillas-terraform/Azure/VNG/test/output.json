@@ -1,0 +1,22 @@
+{
+  "pip-env1-test-001_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "/subscriptions/10c3425e-dc96-45a4-9812-c4fd2ad43256/resourceGroups/rg-env1-test-001/providers/Microsoft.Network/publicIPAddresses/pip-env1-test-001"
+  },
+  "rg-env1-test-001_location": {
+    "sensitive": false,
+    "type": "string",
+    "value": "eastus"
+  },
+  "rg-env1-test-001_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "rg-env1-test-001"
+  },
+  "sbnt-env1-test-001_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "/subscriptions/10c3425e-dc96-45a4-9812-c4fd2ad43256/resourceGroups/rg-env1-test-001/providers/Microsoft.Network/virtualNetworks/vnet-env1-test-001/subnets/GatewaySubnet"
+  }
+}
